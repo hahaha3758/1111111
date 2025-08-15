@@ -1,0 +1,15 @@
+Cc1cc(-c2cc(O)ccc2Cl)cc2nnc(Nc3ccc(CCCN4CCCC4)cc3)nc12
+CCN1CCN(c2ccc(Nc3cc(N(C)C(=O)Nc4c(Cl)c(OC)cc(OC)c4Cl)ncn3)cc2)CC1.O=P(O)(O)O
+CNS(=O)(=O)c1ccc2c(c1)/C(=C/c1[nH]c3c(c1CCCN1CCN(CCO)CC1)CCCC3)C(=O)N2
+COc1ccc(-c2cnc3cncc(Nc4cc(OC)ccc4OC)c3n2)cc1
+CCCCn1c(-c2cc(-c3cccc4[nH]ncc34)ccc2C)cn2c3c(=O)[nH]c(=O)n(C)c3nc12
+Cc1cccc(C)c1-c1cc(C)c2nc(Nc3ccc(OCCC4CCCC4)cc3)nnc2c1
+CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4
+CCS(=O)(=O)c1ccc2c(c1)/C(=C/c1[nH]c3c(c1CN1CCOCC1)CCCC3)C(=O)N2
+O=C(CCc1cn(Cc2ccc(Cl)cc2)c2ccccc12)Nc1ccncc1
+Nc1ncnc2c1c(-c1ccc(Oc3ccccc3)cc1)cn2C[C@H]1CCCN1C[C@@H]1CO1
+C#CCO[C@@H]1[C@H](C)[C@@H](COS(=O)(=O)C=C)O[C@H]1n1nc(-c2ccc(C)cc2)c2c(N)ncnc21
+C=CC(=O)N[C@H]1CC[C@@H](n2nc(-c3ccc(Oc4ccccc4)cc3)c3c(N)ncnc32)CC1
+Cc1cccc(C)c1-c1cc(C)c2nc(Nc3ccc(S(=O)(=O)NCCN4CCCC4)cc3)nnc2c1
+CN(C)S(=O)(=O)c1ccc2c(c1)/C(=C/c1cc3c([nH]1)CCCC3)C(=O)N2
+CN1CCN(c2ccc(Nc3cc(-c4cccc(-n5ccc6cc(C7CC7)cc(F)c6c5=O)c4CO)cn(C)c3=O)nc2)CC1
