@@ -1,0 +1,4 @@
+C[C@@H]1CN(c2ccc(-c3n[nH]c4cnc(N5[C@H](C)CN(C(=O)N6CCCC6)C[C@@H]5C)nc34)cn2)CCN1
+COC(=O)N1C[C@@H](C)N(c2ncc3[nH]nc(-c4ccc(N5CCN[C@H](C)C5)nc4)c3n2)[C@@H](C)C1
+COC(=O)N1C[C@@H](C)N(c2ncc3[nH]nc(-c4ccc(N5CCN(C)CC5)nc4)c3n2)[C@@H](C)C1
+COC(=O)N1C[C@@H](C)N(c2ncc3[nH]nc(-c4ccc(N5CCN(C)CC5)cc4)c3n2)[C@@H](C)C1
