@@ -1,6 +1,6 @@
 # Meta-analysis and Multiscale Topology in Interactomic Network for Antiaddiction Drug Repopusing
 
-This script is applicable to the paper "Meta analysis and Multiscale Topology in Interactive Network for Anti addiction Drug Repopulation". The content of the script includes all the code and raw data involved in the paper, mainly divided into two parts: “key_gene recognition” and “Machine_learning”. The “BA_prediction_results.xlsx” table contains the final predicted BA values for each drug in DrugBank.
+This script is applicable to the paper "Meta analysis and Multiscale Topology in Interactive Network for Anti addiction Drug Repopulation". The content of the script includes all the code and raw data involved in the paper, mainly divided into two parts: “key_gene recognition” and “Machine_learning”. The table (“BA_prediction_results.xlsx”) contains the final predicted BA values for each drug in DrugBank.
 
 ## Requirements
 
@@ -41,9 +41,9 @@ git clone https://github.com/hahaha3758/Drug_repopusing.git
 
 ## Data sources
 
-- Transcriptome data sourced from the National Center for Biotechnology Information ([NCBI](https://www.ncbi.nlm.nih.gov/)), GEO access is GSE174409、GSE182321、GSE194368、GSE210206、GSE210682、GSE260711、GSE167922
-- The data for drawing the PPI network comes from STRING ([STRING](https://string-db.org/), version=11.5)
-- The inhibitor data is sourced from CHEMBL ([CHEMBL](https://www.ebi.ac.uk/chembl/))
+- Transcriptome data sourced from the National Center for Biotechnology Information ([NCBI](https://www.ncbi.nlm.nih.gov/)), GEO access is GSE174409, GSE182321, GSE194368, GSE210206, GSE210682, GSE260711,GSE167922.
+- The data for drawing the PPI network comes from STRING ([STRING](https://string-db.org/), version=11.5).
+- The inhibitor data is sourced from CHEMBL ([CHEMBL](https://www.ebi.ac.uk/chembl/)).
 
 The above data has been published.
 
@@ -57,7 +57,7 @@ Each folder in this section contains the required code, data, and results. The f
 
 ## Install the pretrained model for molecular fingerprint generation
 
-### 1. AE fingerprint environment
+### AE fingerprint environment
 
 The autoencoder (AE) feature generation follows the work "Learning Continuous and Data-Driven Molecular Descriptors by Translating Equivalent Chemical Representations" by Robin Winter, Floriane Montanari, Frank Noe and Djork-Arne Clevert.
 
@@ -68,7 +68,7 @@ conda env create -f environment.yml
 source activate cddd
 ```
 
-### 2. BET fingerprint environment
+### BET fingerprint environment
 
 The bidirectional encoder transformer (BET) feature generation follows the work "Extracting Predictive Representations from Hundreds of Millions of Molecules" by Dong Chen, Jiaxin Zheng, Guo-Wei Wei, and Feng Pan.
 
@@ -82,7 +82,7 @@ python setup.py build_ext --inplace
 mv ./bt_pro/fairseq/data/* ./fairseq/data/
 ```
 
-### 3. ECFP fingerprint environment
+### ECFP fingerprint environment
 
 The extended-connectivity fingerprint (ECFP) feature generation follows the work "Extended-connectivity fingerprints" by Rogers, David and Hahn, Mathew.
 
