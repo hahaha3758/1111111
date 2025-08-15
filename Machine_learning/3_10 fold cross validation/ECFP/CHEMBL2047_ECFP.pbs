@@ -1,0 +1,11 @@
+#!/bin/bash
+#PBS -q batch
+########## Define Resources Needed with PBS Lines ##########
+#PBS -l walltime=10000:00:00
+#PBS -l nodes=node05:ppn=1
+#PBS -l mem=2gb
+#PBS -o CHEMBL2047_ECFP.out
+#PBS -e CHEMBL2047_ECFP.err
+cd /public/home/chenlong666/Chunhuanzhang/chansheng10ci/ECFP
+source /public/home/chenlong666/anaconda3/bin/activate pre-gpu
+python ECFP_10.py CHEMBL2047

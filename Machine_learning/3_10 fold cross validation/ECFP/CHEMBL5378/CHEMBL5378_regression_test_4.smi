@@ -1,0 +1,13 @@
+CC(C)OC(=O)[C@H](O[C@H]1O[C@@H](CO)[C@H](OC(=O)c2ccccc2)[C@@H](O[C@@H](Cc2ccccc2)C(=O)O)[C@H]1OC(=O)c1ccccc1)[C@@H](O[C@H]1O[C@@H](C)[C@@H](O)[C@@H](O)[C@@H]1O)C(=O)OCCc1cn(CCCCCOC(=O)[C@H](O[C@@H]2O[C@@H](C)[C@@H](O)[C@@H](O)[C@H]2O)[C@@H](O[C@@H]2O[C@H](CO)[C@H](OC(=O)c3ccccc3)[C@H](O[C@H](Cc3ccccc3)C(=O)O)[C@H]2OC(=O)c2ccccc2)C(=O)OC(C)C)nn1
+CCCCCCCCCCCCCCC(CCCCCCCCCCCCCC)C(=O)N[C@@H](CO[C@H]1O[C@H](CO)[C@@H](O)[C@@H](O)[C@@H]1O)C(=O)N[C@H](CCC(=O)O)C(=O)NC
+CCCCCCCCCCCCC#CC#CCCCCCCCCC(=O)NCCO
+CCCCCCCCCCCCC/C=C/[C@@H](OCc1ccccc1)[C@H](CO[C@@H]1O[C@@H](CO)[C@@H](O)[C@H](OS(=O)(=O)[O-])[C@@H]1OS(=O)(=O)[O-])NC(=O)CCCCCCCCCCCCCCC.[Na+].[Na+]
+O=C(O)CCC(C(=O)O)N(C(=O)CC1OC(CO)C(O)C(O)C1O)C(CCC(=O)O)C(=O)NCC(=O)O
+O=C(O)Cc1cccc(NC(=O)CCc2cc(O)c(O)c(O)c2)c1
+COc1ccccc1CNc1ncc(C(=O)NCCCCN(C)C)c(NC2CCCC2)n1
+O=C(O)Cc1ccc(-c2ccccc2NC(=O)c2cccc(-c3ccc(O)c(O)c3O)c2)s1
+CCCCCCCCCCCCC/C=C/[C@@H](O)[C@H](CO[C@@H]1O[C@@H](COS(=O)(=O)[O-])[C@@H](O)[C@H](O)[C@@H]1OS(=O)(=O)[O-])NC(=O)CCCCCCCCCCCCCCC.[Na+].[Na+]
+CCCCCCCCCCCCCCC(CCCCCCCCCCCCCC)C(=O)N[C@H](CO[C@H]1O[C@@H](C)[C@@H](O)[C@H](O)[C@@H]1O)C(=O)N[C@@H](CCC(=O)O)C(=O)NC
+CCCCCCCCCCCCC/C=C/[C@@H](OCc1ccccc1)[C@H](CO[C@@H]1O[C@@H](COS(=O)(=O)[O-])[C@@H](O)[C@H](O)[C@@H]1O)NC(=O)CCCCCCCCCCCCCCC.[Na+]
+CN1CCC(NC(=O)c2cnc(Nc3cc(Cl)cc(Cl)c3)nc2NC2CCC(N(C)C)CC2)CC1
+O=C(O)Cc1ccc(-c2ccccc2NC(=O)/C=C/c2ccc(O)c(O)c2O)s1

@@ -1,0 +1,14 @@
+O=C(c1ccc(OCCN2CCCCC2)cc1)c1c(-c2ccc(O)cc2)sc2c(C(=O)c3ccc(OCCN4CCCCC4)cc3)c(O)ccc12
+CC(=O)c1cccc(-c2cccc(-c3ccn(CCN4CCOCC4)n3)c2)c1
+O=c1cc(N2CCN(c3cccc(C(F)(F)F)c3)CC2)[nH]c(=O)n1C1CCCCC1
+Cc1nc(N(C)C)nc(-c2cccc(-c3ccn(CCN(C)C)n3)c2)c1C
+CN(C[C@@]12CC[C@@H](O)[C@@H]1CC(CCCCCCCCCC(=O)O)=C2c1ccccc1)c1ccccc1
+C=C(c1ccccc1)[C@@]12CC[C@H](NS(N)(=O)=O)C1CC(CCCCCC)=C2c1ccccc1
+O=C(O)CCCCCCCCCC1=C(c2ccccc2)[C@@H]2CC[C@@H](O)[C@@H]2C1
+C=C(c1ccccc1)[C@]12CC[C@H](O)[C@H]1CC(CCCCCC)=C2c1ccccc1
+C=C(c1ccccc1)[C@@]12CC[C@H](NS(N)(=O)=O)C1CC(CCCCCCCCCC(=O)O)=C2c1ccccc1
+C=C(c1ccccc1)[C@@]12CC[C@H](N)[C@@H]1CC(CCCCCCCCCC(=O)OC)=C2c1ccccc1
+CCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCCCCCC
+CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)OC(COC(=O)CCCCCCCCCCCCCCCCC)COP(=O)(O)O[C@@H]1[C@H](O)[C@H](O)[C@@H](OP(=O)(O)O)[C@H](OP(=O)(O)O)[C@H]1O
+CCCCCCC1=C(c2ccccc2)[C@@H]2CC[C@H](NS(N)(=O)=O)[C@@H]2C1
+CCCCNC(=O)c1cc(C(C)(C)C)cc(C(C)(C)C)c1O
