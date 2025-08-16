@@ -1,0 +1,10 @@
+machine_learning Directory:
+1_get_smi: Contains the raw data of 72 inhibitors datasets and the code for extracting SMILES files and the generated SMILES files.
+2_AE: Houses the code required for generating AE features and the generated AE features.
+2_BET: Contains the code needed for generating BET features and the generated BET features.
+2_ECFP: Stores the code required for generating ECFP features and the generated ECFP features.
+3_10_fold_cross_validation: Contains 3 subdirectories, each with the input files needed for ten-fold cross-validation.
+4_DT: Houses the code for GBDT models performing ten-fold cross-validation with different feature combinations and the model performance.
+4_RF: Contains the code for RF models performing ten-fold cross-validation with different feature combinations and the model performance.
+4_SVM: Stores the code for SVM models performing ten-fold cross-validation with different feature combinations and the model performance.
+5_prediction_result: Contains the code for predicting the binding affinity of 6001 drugs in DrugBank and the final prediction results.
